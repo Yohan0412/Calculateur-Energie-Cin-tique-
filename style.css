@@ -1,0 +1,11 @@
+.form {
+  display: flex;
+  text-align: center;
+  margin-left: 10rem;
+  margin-top: 1rem;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+}
